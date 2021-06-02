@@ -45,6 +45,6 @@ OPTIONS
 
 EXAMPLES
   $ percy build:wait --build 123
-  $ percy build:wait --project test --commit HEAD
+  $ percy build:wait --project org-id/project-slug --commit HEAD
 ```
 <!-- commandsstop -->
